@@ -34,7 +34,7 @@ header{
 	color: #fff;
 	padding-top: 20px;
 	min-height: 40px;
-	border-bottom: 10px solid #1aff1a; 
+	border-bottom: 5px solid #1aff1a; 
 }
 
 header a{
@@ -195,7 +195,7 @@ input[type="submit"]{
 
 /*Media Queries - responsive*/
 
-@media(max-width: 768px){
+@media(max-width: 1250px){
 	header #marca,
 	header nav,
 	header nav li,
