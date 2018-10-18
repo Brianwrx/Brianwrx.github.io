@@ -2,7 +2,7 @@ body{
 	font: 15px Arial, Helvetica, sans-serif;
 	padding: 0;
 	margin: 0;
-	background-color:  #00cc00;
+	background-color:  #88FF11;
 }
 
 /*Estilos Globales*/
@@ -20,7 +20,7 @@ ul{
 
 .boton1{
 	height: 38px;
-	background: #00ff00;
+	background: #88FF11;
 	border: 0;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -64,7 +64,7 @@ header nav{
 }
 
 header .resaltado, header .actual a{
-	color: #1aff1a;
+	color: #88FF11;
 	font-weight: bold;
 }
 
@@ -189,7 +189,7 @@ textarea{
 }
 
 input[type="submit"]{
-	background-color: #e8491d;
+	background-color: #88FF11;
 	color: #fff;
 }
 
